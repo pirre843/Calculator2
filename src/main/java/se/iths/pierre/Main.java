@@ -7,7 +7,7 @@ public class Main {
         int sum = add(12, 15);
         int result = sub(15, 12);
         int result2 = mult(33, 18);
-        int result3 = div(33, 5);
+        int result3 = div(33, 6);
 
         IO.println(result);
         IO.println(sum);
